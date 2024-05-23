@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: blue;
+    font-weight: 600;
+    display: flex;
+    background-color: aquamarine;
+    padding-top: 50px;
+    flex-direction: column;
+}
+
+
+
